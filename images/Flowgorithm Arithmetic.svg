@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.15.2 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="3075">
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,125 350,300"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2875 350,2936"/>
+		<polygon fill="#000000" stroke="none" points="350,2950 363,2925 336,2925"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 250,25 A 50,50 0 0,0 250,125 L 450,125 A 50,50 0 0,0 450,25 Z"/>
+			<text x="350" y="40" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="350" dy="50" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 250,2950 A 50,50 0 0,0 250,3050 L 450,3050 A 50,50 0 0,0 450,2950 Z"/>
+			<text x="350" y="2965" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="350" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,300 350,461"/>
+			<polygon fill="#000000" stroke="none" points="350,475 363,450 336,450"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,600 350,661"/>
+			<polygon fill="#000000" stroke="none" points="350,675 363,650 336,650"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,800 350,861"/>
+			<polygon fill="#000000" stroke="none" points="350,875 363,850 336,850"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,975 350,1036"/>
+			<polygon fill="#000000" stroke="none" points="350,1050 363,1025 336,1025"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1150 350,1211"/>
+			<polygon fill="#000000" stroke="none" points="350,1225 363,1200 336,1200"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1325 350,1386"/>
+			<polygon fill="#000000" stroke="none" points="350,1400 363,1375 336,1375"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1500 350,1561"/>
+			<polygon fill="#000000" stroke="none" points="350,1575 363,1550 336,1550"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1775 350,1836"/>
+			<polygon fill="#000000" stroke="none" points="350,1850 363,1825 336,1825"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2050 350,2111"/>
+			<polygon fill="#000000" stroke="none" points="350,2125 363,2100 336,2100"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2325 350,2386"/>
+			<polygon fill="#000000" stroke="none" points="350,2400 363,2375 336,2375"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2600 350,2661"/>
+			<polygon fill="#000000" stroke="none" points="350,2675 363,2650 336,2650"/>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="6,12" points="350,300 475,300"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="6,6" d="M 475,200 L 475,400 L 975,400 L 975,200 Z"/>
+					<text x="725" y="215" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="725" dy="50" unicode-bidi="embed">This program</tspan>
+						<tspan x="725" dy="50" unicode-bidi="embed"> demonstrates&#13;</tspan>
+						<tspan x="725" dy="50" unicode-bidi="embed">arithmetic operations.</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,475 L 200,600 L 500,600 L 500,475 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,500 500,500"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,475 225,600"/>
+				<text x="362" y="515" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">Integer a</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,675 L 200,800 L 500,800 L 500,675 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,700 500,700"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,675 225,800"/>
+				<text x="362" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">Integer b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,875 L 200,975 L 500,975 L 500,875 Z"/>
+				<text x="350" y="890" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">a = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,1050 L 200,1150 L 500,1150 L 500,1050 Z"/>
+				<text x="350" y="1065" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">b = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,1225 L 100,1325 L 550,1325 L 600,1225 Z"/>
+				<text x="350" y="1240" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a = &quot; &amp; a</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,1400 L 100,1500 L 550,1500 L 600,1400 Z"/>
+				<text x="350" y="1415" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;b = &quot; &amp; b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 125,1575 L 25,1775 L 575,1775 L 675,1575 Z"/>
+				<text x="350" y="1590" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a + b = &quot; &amp;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed"> &#13;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed">a + b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,1850 L 50,2050 L 550,2050 L 650,1850 Z"/>
+				<text x="350" y="1865" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a - b = &quot; &amp;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed"> &#13;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed">a - b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,2125 L 50,2325 L 550,2325 L 650,2125 Z"/>
+				<text x="350" y="2140" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a * b = &quot; &amp;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed"> &#13;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed">a * b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,2400 L 50,2600 L 550,2600 L 650,2400 Z"/>
+				<text x="350" y="2415" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a / b = &quot; &amp;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed"> &#13;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed">a / b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 125,2675 L 25,2875 L 575,2875 L 675,2675 Z"/>
+				<text x="350" y="2690" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;a % b = &quot; &amp;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed"> &#13;</tspan>
+					<tspan x="350" dy="50" unicode-bidi="embed">a % b</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

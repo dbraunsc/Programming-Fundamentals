@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.15.2 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1300" height="2750">
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,125 350,275"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2550 350,2611"/>
+		<polygon fill="#000000" stroke="none" points="350,2625 363,2600 336,2600"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 250,25 A 50,50 0 0,0 250,125 L 450,125 A 50,50 0 0,0 450,25 Z"/>
+			<text x="350" y="40" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="350" dy="50" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 250,2625 A 50,50 0 0,0 250,2725 L 450,2725 A 50,50 0 0,0 450,2625 Z"/>
+			<text x="350" y="2640" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="350" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,275 350,411"/>
+			<polygon fill="#000000" stroke="none" points="350,425 363,400 336,400"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,550 350,611"/>
+			<polygon fill="#000000" stroke="none" points="350,625 363,600 336,600"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,750 350,811"/>
+			<polygon fill="#000000" stroke="none" points="350,825 363,800 336,800"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,950 350,1011"/>
+			<polygon fill="#000000" stroke="none" points="350,1025 363,1000 336,1000"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1150 350,1211"/>
+			<polygon fill="#000000" stroke="none" points="350,1225 363,1200 336,1200"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1325 350,1386"/>
+			<polygon fill="#000000" stroke="none" points="350,1400 363,1375 336,1375"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1500 350,1561"/>
+			<polygon fill="#000000" stroke="none" points="350,1575 363,1550 336,1550"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1675 350,1736"/>
+			<polygon fill="#000000" stroke="none" points="350,1750 363,1725 336,1725"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,1850 350,1911"/>
+			<polygon fill="#000000" stroke="none" points="350,1925 363,1900 336,1900"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2025 350,2086"/>
+			<polygon fill="#000000" stroke="none" points="350,2100 363,2075 336,2075"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2200 350,2261"/>
+			<polygon fill="#000000" stroke="none" points="350,2275 363,2250 336,2250"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="350,2375 350,2436"/>
+			<polygon fill="#000000" stroke="none" points="350,2450 363,2425 336,2425"/>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="6,12" points="350,275 475,275"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="6,6" d="M 475,200 L 475,350 L 1275,350 L 1275,200 Z"/>
+					<text x="875" y="215" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="875" dy="50" unicode-bidi="embed">This program demonstrates variables,</tspan>
+						<tspan x="875" dy="50" unicode-bidi="embed"> literal constants, and data types.</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,425 L 200,550 L 500,550 L 500,425 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,450 500,450"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,425 225,550"/>
+				<text x="362" y="465" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">Integer i</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,625 L 200,750 L 500,750 L 500,625 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,650 500,650"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,625 225,750"/>
+				<text x="362" y="665" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">Real r</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,825 L 200,950 L 500,950 L 500,825 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,850 500,850"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,825 225,950"/>
+				<text x="362" y="865" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">String s</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,1025 L 200,1150 L 500,1150 L 500,1025 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,1050 500,1050"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="225,1025 225,1150"/>
+				<text x="362" y="1065" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">Boolean b</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,1225 L 175,1325 L 525,1325 L 525,1225 Z"/>
+				<text x="350" y="1240" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">i = 1234567890</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 100,1400 L 100,1500 L 600,1500 L 600,1400 Z"/>
+				<text x="350" y="1415" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">r = 1.23456789012345</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,1575 L 200,1675 L 500,1675 L 500,1575 Z"/>
+				<text x="350" y="1590" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">s = &quot;string&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 200,1750 L 200,1850 L 500,1850 L 500,1750 Z"/>
+				<text x="350" y="1765" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">b = true</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 100,1925 L 50,2025 L 600,2025 L 650,1925 Z"/>
+				<text x="350" y="1940" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;Integer i = &quot; &amp; i</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 100,2100 L 50,2200 L 600,2200 L 650,2100 Z"/>
+				<text x="350" y="2115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;Real r = &quot; &amp; r</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 100,2275 L 50,2375 L 600,2375 L 650,2275 Z"/>
+				<text x="350" y="2290" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;String s = &quot; &amp; s</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 75,2450 L 25,2550 L 625,2550 L 675,2450 Z"/>
+				<text x="350" y="2465" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="350" dy="50" unicode-bidi="embed">Output &quot;Boolean b = &quot; &amp; b</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

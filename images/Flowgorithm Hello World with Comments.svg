@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.15.2 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1350" height="825">
+	<rect x="0" y="0" width="1350" height="825" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,200 375,325"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,550 375,611"/>
+		<polygon fill="#000000" stroke="none" points="375,625 388,600 361,600"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 275,100 A 50,50 0 0,0 275,200 L 475,200 A 50,50 0 0,0 475,100 Z"/>
+			<text x="375" y="115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 275,625 A 50,50 0 0,0 275,725 L 475,725 A 50,50 0 0,0 475,625 Z"/>
+			<text x="375" y="640" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,325 375,436"/>
+			<polygon fill="#000000" stroke="none" points="375,450 388,425 361,425"/>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="6,12" points="375,325 500,325"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="6,6" d="M 500,275 L 500,375 L 1250,375 L 1250,275 Z"/>
+					<text x="875" y="290" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="875" dy="50" unicode-bidi="embed">This program displays &quot;Hello world!&quot;</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,450 L 100,550 L 600,550 L 650,450 Z"/>
+				<text x="375" y="465" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">Output &quot;Hello world!&quot;</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
